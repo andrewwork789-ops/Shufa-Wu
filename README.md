@@ -45,5 +45,6 @@ Analyzed differences in the likelihood of homeownership across generations using
 - Applied statistical regression models to estimate the likelihood of owning a home
 - Incorporated demographic and economic characteristics into the analysis
 - Evaluated factors associated with generational differences in homeownership
+ <br>
 📄 [View Full Homeownership Likelihood Project Paper](./Regression_Final_Project_Report.pdf) <br>
 📄 [View Full Homeownership Likelihood Project Code](./ISYE6414_REGRESSION_PROJECT.pdf) <br>
