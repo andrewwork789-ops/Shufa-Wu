@@ -34,6 +34,7 @@ Developed an NLP classification model to categorize 200K+ news headlines across 
 - Used GridSearchCV with 5-fold cross-validation for model tuning
 
 📄 [View Full News Headline Classification Project Paper](./News_Headline_Classification_Paper.pdf) <br>
+📄 [View Full News Headline Classification Project Code](./News_Headline_code.pdf) <br>
 
 
 ### 🏠 Homeownership Likelihood Across Generations
@@ -44,5 +45,5 @@ Analyzed differences in the likelihood of homeownership across generations using
 - Applied statistical regression models to estimate the likelihood of owning a home
 - Incorporated demographic and economic characteristics into the analysis
 - Evaluated factors associated with generational differences in homeownership
-
-📄 [View Full Homeownership Likelihood Project Report](./ISYE6414_REGRESSION_PROJECT.pdf) <br>
+📄 [View Full Homeownership Likelihood Project Paper](./Regression_Final_Project_Report.pdf) <br>
+📄 [View Full Homeownership Likelihood Project Code](./ISYE6414_REGRESSION_PROJECT.pdf) <br>
