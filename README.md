@@ -25,3 +25,4 @@ Developed a data-driven decision support system to identify housing markets with
 
 Dashboard: https://public.tableau.com/app/profile/shufa.wu/viz/SoutheastHousingMarketInvestmentOpportunities/Dashboard1<br>
 
+📄 [View Full Capstone Project](./ISYE6414_REGRESSION_PROJECT.pdf) <br>
