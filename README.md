@@ -2,7 +2,7 @@
 https://public.tableau.com/app/profile/shufa.wu/viz/SoutheastHousingMarketInvestmentOpportunities/Dashboard1
 
 # 💫 About Me:
-I'm a Master's in Analytics graduate from Georgia Tech with a background in Business Analytics and Management Information Systems. I'm interested in using data to solve business problems and support data-driven decision-making.<br><br>👨‍💻 About Me<br>🎓 M.S. in Analytics — Georgia Institute of Technology<br>🎓 B.S. in Business Analytics & Management Information Systems — UNC Charlotte<br>📊 Interested in Data Analytics, Business Analytics, and Data Science<br>🐍 Working with Python, SQL, Pandas, Scikit-learn, and Tableau<br>📈 Experience with statistical modeling, machine learning, NLP, and data visualization<br>🏠 Currently building projects involving housing markets and geographic market analysis
+I recently graduated with my masters in Analytics/Data Science from Georgia Tech. I'm interested in using data to solve business problems and support data-driven decision-making.<br><br>👨‍💻 About Me<br>🎓 M.S. in Analytics — Georgia Institute of Technology<br>🎓 B.S. in Business Analytics & Management Information Systems — UNC Charlotte<br>📊 Interested in Data Analytics, Business Analytics, and Data Science<br>🐍 Working with Python, SQL, Pandas, Scikit-learn, and Tableau<br>📈 Experience with statistical modeling, machine learning, NLP, and data visualization<br>🏠 Currently building projects involving housing markets and geographic market analysis
 
 
 ## 🌐 Socials:
