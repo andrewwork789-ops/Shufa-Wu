@@ -1,1 +1,12 @@
-# Shufa-Wu
+# Capstone-Project
+https://public.tableau.com/app/profile/shufa.wu/viz/SoutheastHousingMarketInvestmentOpportunities/Dashboard1
+
+# 💫 About Me:
+I'm a Master's in Analytics graduate from Georgia Tech with a background in Business Analytics and Management Information Systems. I'm interested in using data to solve business problems and support data-driven decision-making.<br><br>👨‍💻 About Me<br>🎓 M.S. in Analytics — Georgia Institute of Technology<br>🎓 B.S. in Business Analytics & Management Information Systems — UNC Charlotte<br>📊 Interested in Data Analytics, Business Analytics, and Data Science<br>🐍 Working with Python, SQL, Pandas, Scikit-learn, and Tableau<br>📈 Experience with statistical modeling, machine learning, NLP, and data visualization<br>🏠 Currently building projects involving housing markets and geographic market analysis
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shufawu) 
+
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
