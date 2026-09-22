@@ -2,7 +2,7 @@
 # 💫 About Me:
 I recently graduated with a Master’s in Analytics from Georgia Tech, building on my background in Business Analytics and Management Information Systems. I’m interested in using data to solve business problems and support data-driven decision-making. My experience includes Python, SQL, statistical modeling, machine learning, and data visualization, with projects involving housing markets, NLP, predictive modeling, regression analysis, etc. I’m currently looking for opportunities where I can apply these skills to real-world business problems and continue growing as a data and analytics professional.
 
-<br><br>👨‍💻 About Me<br>🎓 M.S. in Analytics — Georgia Institute of Technology<br>🎓 B.S. in Business Analytics & Management Information Systems — UNC Charlotte<br>📊 Interested in Data Analytics, Business Analytics, and Data Science<br>🐍 Working with Python, SQL, Pandas, Scikit-learn, and Tableau<br>📈 Experience with statistical modeling, machine learning, NLP, and data visualization<br>🏠 Currently building projects involving housing markets and geographic market analysis
+🎓 M.S. in Analytics — Georgia Institute of Technology<br>🎓 B.S. in Business Analytics & Management Information Systems — UNC Charlotte<br>📊 Interested in Data Analytics, Business Analytics, and Data Science<br>🐍 Working with Python, SQL, Pandas, Scikit-learn, and Tableau<br>📈 Experience with statistical modeling, machine learning, NLP, and data visualization<br>🏠 Currently building projects involving housing markets and geographic market analysis
 
 ## 📂 Featured Projects
 
