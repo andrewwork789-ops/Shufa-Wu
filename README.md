@@ -21,7 +21,7 @@ Developed a data-driven decision support system to identify housing markets with
 **Tools:** Python, Pandas, Scikit-learn, Tableau
 
 📄 [View Full Capstone Project](./Capstone_Project.pdf) <br>
-
+📄 [View Full Capstone Project Code](./Capstone_Code.ipynb) <br>
 
 Dashboard: https://public.tableau.com/app/profile/shufa.wu/viz/SoutheastHousingMarketInvestmentOpportunities/Dashboard1<br>
 
