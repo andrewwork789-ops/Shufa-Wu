@@ -14,4 +14,4 @@ I recently graduated with my masters in Analytics/Data Science from Georgia Tech
 # 💻 Projects:
 Housing Market Decision Support System | Graduate Capstone
 Dashboard: https://public.tableau.com/app/profile/shufa.wu/viz/SoutheastHousingMarketInvestmentOpportunities/Dashboard1
-Paper:
+Paper: [View My Capstone Project](./Capstone_Project.pdf)
