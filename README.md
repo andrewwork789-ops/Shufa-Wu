@@ -25,4 +25,24 @@ Developed a data-driven decision support system to identify housing markets with
 
 Dashboard: https://public.tableau.com/app/profile/shufa.wu/viz/SoutheastHousingMarketInvestmentOpportunities/Dashboard1<br>
 
-📄 [View Full Capstone Project](./ISYE6414_REGRESSION_PROJECT.pdf) <br>
+
+### 📰 News Headline Classification
+
+Developed an NLP classification model to categorize 200K+ news headlines across 42 categories.
+
+- Applied TF-IDF vectorization and compared Naive Bayes, Logistic Regression, and Linear SVM
+- Used GridSearchCV with 5-fold cross-validation for model tuning
+
+📄 [View Full News Headline Classification Project Paper](./News_Headline_Classification_Paper.pdf) <br>
+
+
+### 🏠 Homeownership Likelihood Across Generations
+
+Analyzed differences in the likelihood of homeownership across generations using demographic, economic, and housing-related factors.
+
+- Examined homeownership patterns across different generations
+- Applied statistical regression models to estimate the likelihood of owning a home
+- Incorporated demographic and economic characteristics into the analysis
+- Evaluated factors associated with generational differences in homeownership
+
+📄 [View Full Homeownership Likelihood Project Report](./ISYE6414_REGRESSION_PROJECT.pdf) <br>
