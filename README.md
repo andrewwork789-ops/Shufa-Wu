@@ -44,7 +44,8 @@ Analyzed differences in the likelihood of homeownership across generations using
 
 
 
-## 🌐 Socials:
+🌐 Connect With Me
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swu642@gatech.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shufawu) 
 
 # 💻 Tech Stack:
